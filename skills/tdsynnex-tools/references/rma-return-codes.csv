@@ -1,0 +1,20 @@
+rmaType,returnTypeDescription,reasonCode,reasonDescription,conditionCode,conditionDescription,countryCode
+C,Return for Credit,6,Stock Balance/Factory Sealed,A,Factory Sealed,US
+C,Return for Credit,24,Over Shipment,A,Factory Sealed,US
+C,Return for Credit,24,Over Shipment,H,Open Box,US
+C,Return for Credit,24,Over Shipment,M,Damaged,US
+C,Return for Credit,617,Software/Licensing,E,Virtual/Software,US
+C,Return for Credit,329,No longer needed,A,Factory Sealed,US
+C,Return for Credit,329,No longer needed,C,Open,US
+C,Return for Credit,330,Ordered Wrong Part,A,Factory Sealed,US
+C,Return for Credit,330,Ordered Wrong Part,C,Open,US
+C,Return for Credit,331,Received Wrong Part/Misshipment,A,Factory Sealed,US
+C,Return for Credit,331,Received Wrong Part/Misshipment,C,Open,US
+C,Return for Credit,812,Missing Product/Short Shipment,G,Missing,US
+C,Return for Credit,812,Missing Product/Short Shipment,M,Damaged,US
+C,Return for Credit,332,Incompatible,C,Open,US
+C,Return for Credit,813,Lost,G,Missing,US
+C,Return for Credit,333,Defective,I,Defective/DOA,US
+C,Return for Credit,334,DOA,I,Defective/DOA,US
+C,Return for Credit,335,Damaged,B,Damaged Box,US
+C,Return for Credit,335,Damaged,F,Damage Product,US

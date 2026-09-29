@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "tdsynnex-digital-bridge": {
+    "tdsynnex": {
       "type": "http",
       "url": "https://digitalbridge.tdsynnex.com/mcp-gateway/api/v1/mcp/digitalbridge/streamable"
     }

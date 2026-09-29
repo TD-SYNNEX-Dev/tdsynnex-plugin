@@ -9,11 +9,13 @@
   },
   "plugins": [
     {
-      "name": "tdsynnex",
+      "name": "td-synnex-plugin",
       "source": "./",
       "description": "Source products, track orders and invoices, manage returns, and administer TD SYNNEX Stellr cloud subscriptions, billing and Microsoft tenants.",
       "version": "1.5.3",
-      "author": { "name": "TD SYNNEX" },
+      "author": {
+        "name": "TD SYNNEX"
+      },
       "homepage": "https://www.tdsynnex.com/",
       "category": "productivity"
     }

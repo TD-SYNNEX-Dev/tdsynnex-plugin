@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "tdsynnex-digital-bridge",
+      "name": "tdsynnex",
       "source": "./",
       "description": "Source products, track orders and invoices, manage returns, and administer TD SYNNEX Stellr cloud subscriptions, billing and Microsoft tenants.",
       "version": "1.5.3",

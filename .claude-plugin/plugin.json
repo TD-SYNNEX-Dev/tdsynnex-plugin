@@ -1,5 +1,5 @@
 {
-  "name": "tdsynnex-digital-bridge",
+  "name": "tdsynnex",
   "version": "1.5.3",
   "description": "Connect Claude to your TD SYNNEX Digital Bridge account to source products, compare pricing and availability, track orders and invoices, manage returns, and administer Stellr cloud subscriptions, billing, Azure usage and Microsoft tenants.",
   "author": {

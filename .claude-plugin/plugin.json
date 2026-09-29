@@ -24,5 +24,7 @@
     "azure",
     "microsoft-365",
     "gdap"
-  ]
+  ],
+  "icon": "./assets/td-synnex-logo.png",
+  "privacyPolicyUrl": "https://www.tdsynnex.com/us/en/privacy.html"
 }

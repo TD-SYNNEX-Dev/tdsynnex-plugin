@@ -1,8 +1,8 @@
 {
   "name": "tdsynnex",
-  "displayName": "TD SYNNEX Digital Bridge",
+  "displayName": "TD SYNNEX Plugin",
   "version": "1.5.3",
-  "description": "Connect Claude to your TD SYNNEX Digital Bridge account to source products, compare pricing and availability, track orders and invoices, manage returns, and administer Stellr cloud subscriptions, billing, Azure usage and Microsoft tenants.",
+  "description": "Connect Claude to your TD SYNNEX account to source products, compare pricing and availability, track orders and invoices, manage returns, and administer Stellr cloud subscriptions, billing, Azure usage and Microsoft tenants.",
   "author": {
     "name": "TD SYNNEX",
     "url": "https://www.tdsynnex.com/"

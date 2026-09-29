@@ -1,4 +1,4 @@
-# TD SYNNEX Digital Bridge for Claude
+# TD SYNNEX Plugin
 
 Connect Claude to your TD SYNNEX account to source technology products and manage everyday commerce and cloud workflows. Find products, compare account pricing and warehouse availability, estimate freight, review quotes, track orders and shipments, reconcile invoices and follow returns. Review Stellr subscriptions, cloud billing and Azure usage, and prepare purchase orders, customer updates, subscription changes and Microsoft administration actions for your approval.
 
@@ -6,7 +6,7 @@ Requires an authorized TD SYNNEX reseller account. Available products, tools and
 
 ## Get connected
 
-1. Install the **TD SYNNEX Digital Bridge** plugin in Claude.
+1. Install the **TD SYNNEX Plugin** in Claude.
 2. Enable its TD SYNNEX connector and complete the TD SYNNEX sign-in in your browser when prompted.
 3. Start with a read-only product or order lookup.
 
